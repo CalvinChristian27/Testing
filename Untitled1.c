@@ -8,6 +8,7 @@ int main(){
 	scanf("%d", &a);
 	
 	printf("hallo");
+
 	printf("hiiiiii");
 		
 	return 0;
